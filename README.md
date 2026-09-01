@@ -1,7 +1,6 @@
 # KSPSS
 
-# ⚠️
-This project is currently experimental and not ready for gameplay use, expect many bugs and issues.
+# WARNING!!!! This project is currently experimental and not ready for gameplay use, expect many bugs and issues.
 
 Kerbal Space Program Super Sampling
 
