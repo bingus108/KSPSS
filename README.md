@@ -1,4 +1,4 @@
-# KSPSS **Kerbal Space Program Super Sampling**
+# KSPSS **(Kerbal Space Program Super Sampling)**
 
 > ⚠️ **This project is currently experimental and not ready for gameplay use. Expect bugs, crashes, and incomplete features.**
 
