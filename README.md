@@ -23,7 +23,7 @@ KSPSS aims to bring modern super-resolution technologies to Kerbal Space Program
 - [ ] Experimental DLSS
 - [ ] Functioning DLSS
 - [ ] AMD FSR
-- [ ] Intel XESS
+- [ ] Intel XeSS
 
        
 ## Future Projects
