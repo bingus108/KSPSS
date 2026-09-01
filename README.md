@@ -12,8 +12,8 @@ KSPSS aims to bring modern super-resolution technologies to Kerbal Space Program
 - Render diagnostics
 - DLSS Super Resolution
 - DLAA
-- XeSS (planned)
-- AMD FSR (planned)
+- XeSS
+- AMD FSR
 
 ## Current Status
 
