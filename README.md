@@ -19,9 +19,9 @@ KSPSS aims to bring modern super-resolution technologies to Kerbal Space Program
 
 - [x] Repository created
 - [x] Initial render probe
-- [ ] Stage 1 validation
-- [ ] Render redirect
-- [ ] Experimental DLSS
+- [x] Stage 1 validation
+- [x] Render redirect
+- [x] Experimental DLSS
 - [ ] Functioning DLSS
 - [ ] AMD FSR
 - [ ] Intel XeSS
